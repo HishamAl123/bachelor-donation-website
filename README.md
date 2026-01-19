@@ -13,7 +13,7 @@ Konzeption und Umsetzung einer funktionalen Spendenwebseite für kleine Organisa
 
 ## Technologien
 - WordPress  
-- HTML, CSS  
+- HTML, CSS, JavaScript
 - UX/UI Design  
 
 ## Hinweise
